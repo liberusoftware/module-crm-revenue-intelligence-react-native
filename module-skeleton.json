@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-revenue-intelligence-react-native",
+  "capabilityKey": "liberusoftware/module-crm-revenue-intelligence",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-revenue-intelligence-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/revenue-intelligence.md",
+  "presentationPlan": "projects/crm/react-native/revenue-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
